@@ -1,4 +1,4 @@
-# 
+# Official JetBrains Rider plugins for Mac OS | Lightweight JetBrains Rider plugins for PC Windows. Featuring container-health-checks and commit-history — optimized for maximum performance on every platform.
 
 
 
